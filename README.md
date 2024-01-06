@@ -1,4 +1,4 @@
-![image](https://github.com/LincolnGamalier/FiapMultiCloud/assets/155745584/1b1f8273-6181-44a9-b260-977c52b0e66c)# FiapMultiCloud
+FiapMultiCloud
 
 Interagindo com a Infra - AWS
 
