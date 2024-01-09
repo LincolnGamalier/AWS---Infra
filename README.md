@@ -1,4 +1,4 @@
-FiapMultiCloud
+AWS - Infra
 
 Interagindo com a Infra - AWS
 
